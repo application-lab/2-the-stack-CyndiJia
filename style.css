@@ -3,6 +3,9 @@
     width: 50%;
     margin-left: auto;
     margin-right: auto;
+    color: #585656;
+    font-size: 16px;
+    font-family: 'Manjari', sans-serif;
 }
 
 .btn{
@@ -22,7 +25,7 @@
 }
 
 .titles{
-    margin-top: 3.5%;
+    margin-top: 2.5%;
     text-align: center;
     color: #585656;
 }
@@ -60,4 +63,12 @@ body{
     width: 600px;
     color: grey;
     font-family: 'Manjari', sans-serif;
+}
+
+#inter{
+    margin-left: 21%;
+}
+
+#ci{
+    margin-left: 4%;
 }
